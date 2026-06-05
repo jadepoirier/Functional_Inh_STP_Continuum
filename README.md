@@ -1,1 +1,2 @@
 # Functional_Inh_STP_Continuum
+Code repository for a research project using synaptic modeling and machine learning to investigate how GABAergic short‑term synaptic plasticity is organized across cortical inhibitory synapses. Scripts beginning with "!_" extract and preprocess current‑clamp recordings from the Allen Institute Synaptic Physiology Dataset, with processed outputs stored in the "Data" folder. Scripts prefixed with "f" contain the main analysis pipeline, and their corresponding figures are generated in the "fig" scripts.
